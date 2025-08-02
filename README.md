@@ -174,10 +174,10 @@ const navneeth = {
 </div>
 
 **Achievements:**
-- 🎯 Collaborated with designers and backend developers
 - 📈 Generated 2,000+ organic followers
 - 🎨 Responsive & intuitive UI design
 - ⚡ Optimized performance & SEO
+- 🎯 Collaborated with team
 
 **Tech Stack:**
 <br>
