@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&color=%2379A500&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+%F0%9F%91%8B;I'm+Navneeth+K+Manoj;Full+Stack+Developer;ML+Engineer;Welcome+to+my+Profile!" />
-</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&color=%2379A500&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+%F0%9F%91%8B;I'm+Navneeth+K+Manoj;Full+Stack+Developer;ML+Engineer;Welcome+to+my+Profile!" /> </div>
 
 <div align="center">
   <h3>
@@ -36,7 +34,7 @@
 
 ```javascript
 const navneeth = {
-    name: "Navneeth K Manoj",
+    name: "Navneeth K M",
     location: "India 🇮🇳",
     currentRole: "ML Intern @ Tata Consultancy Services (TCS)",
     education: "Information Technology Engineering",
@@ -74,19 +72,43 @@ const navneeth = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Development Overview
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandhu-navneeth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhu-navneeth&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhu-navneeth&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Primary%20Technologies" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhu-navneeth&theme=radical&hide_border=true" />
-</div>
+---
+
+## 💼 Professional Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhu-navneeth&theme=redical&bg_color=20232a&hide_border=true" />
+  
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Academic-9.75%20CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<br><strong>Academic Excellence</strong>
+<br><sub>Information Technology Engineering</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Experience-TCS%20ML%20Intern-blue?style=for-the-badge&logo=tcs&logoColor=white" />
+<br><strong>Industry Experience</strong>
+<br><sub>Machine Learning & Analytics</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Impact-2K%2B%20Followers-orange?style=for-the-badge&logo=users&logoColor=white" />
+<br><strong>Digital Impact</strong>
+<br><sub>Dream Skrin Website</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Stack-Full%20Stack-purple?style=for-the-badge&logo=code&logoColor=white" />
+<br><strong>Technical Expertise</strong>
+<br><sub>Frontend + Backend + ML</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -163,21 +185,20 @@ const navneeth = {
 
 <div align="center">
   <a href="http://www.dreamskrin.com/">
-    <div style="display: flex; align-items: center;">
-  <img 
-    src="https://media.licdn.com/dms/image/v2/D4D0BAQHBV2saHUsvUQ/company-logo_200_200/company-logo_200_200/0/1720281612001/dream_skrin_logo?e=1756944000&v=beta&t=-r0qQewJ08QF-4e30husYbvaax5ddkr_GiPpsGg4YTI" 
-    alt="Dream Skrin Logo" 
-    style="width: 80px; height: 80px; object-fit: contain; margin-right: 15px;" 
-  />
-</div>
+    <img 
+      src="https://media.licdn.com/dms/image/v2/D4D0BAQHBV2saHUsvUQ/company-logo_200_200/company-logo_200_200/0/1720281612001/dream_skrin_logo?e=1756944000&v=beta&t=-r0qQewJ08QF-4e30husYbvaax5ddkr_GiPpsGg4YTI" 
+      alt="Dream Skrin Logo" 
+      width="120" 
+      height="120"
+    />
   </a>
 </div>
 
 **Achievements:**
+- 🎯 Lead Frontend Developer
 - 📈 Generated 2,000+ organic followers
 - 🎨 Responsive & intuitive UI design
 - ⚡ Optimized performance & SEO
-- 🎯 Collaborated with team
 
 **Tech Stack:**
 <br>
@@ -190,13 +211,12 @@ const navneeth = {
 </table>
 </div>
 
-
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandhu-navneeth&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhu-navneeth&custom_title=Navneeth's%20Contribution%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" />
 </div>
 
 ---
