@@ -16,7 +16,7 @@
   <a href="http://navneeth.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/navneethkm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nandhunavneeth9@gmail.com" target="_blank">
@@ -187,7 +187,7 @@ const navneeth = {
   <a href="http://www.dreamskrin.com/">
     <img 
       src="https://media.licdn.com/dms/image/v2/D4D0BAQHBV2saHUsvUQ/company-logo_200_200/company-logo_200_200/0/1720281612001/dream_skrin_logo?e=1756944000&v=beta&t=-r0qQewJ08QF-4e30husYbvaax5ddkr_GiPpsGg4YTI" 
-      alt="Dream Skrin Logo" 
+      alt="DreamSkrin Logo" 
       width="120" 
       height="120"
     />
