@@ -75,7 +75,16 @@ const navneeth = {
 ## 📊 Development Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhu-navneeth&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Primary%20Technologies" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhu-navneeth&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Primary%20Technologies" width="400"/>
+      </td>
+      <td>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc5b3RoY2ptdXd2ZG5uMnl0M3Z4NTJwemUyYjl6ODJldWZkam5mYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif" width="250"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
