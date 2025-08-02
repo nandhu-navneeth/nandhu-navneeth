@@ -174,7 +174,7 @@ const navneeth = {
 </div>
 
 **Achievements:**
-- 🎯 Lead Frontend Developer
+- 🎯 Collaborated with designers and backend developers
 - 📈 Generated 2,000+ organic followers
 - 🎨 Responsive & intuitive UI design
 - ⚡ Optimized performance & SEO
