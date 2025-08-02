@@ -163,7 +163,13 @@ const navneeth = {
 
 <div align="center">
   <a href="http://www.dreamskrin.com/">
-    <img width="400" height="120" src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=24&color=%23FF6B6B&center=true&vCenter=true&width=400&height=120&lines=🌟+Dream+Skrin+🌟;Corporate+Website;2000%2B+Followers;Live+Deployment" />
+    <div style="display: flex; align-items: center;">
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D4D0BAQHBV2saHUsvUQ/company-logo_200_200/company-logo_200_200/0/1720281612001/dream_skrin_logo?e=1756944000&v=beta&t=-r0qQewJ08QF-4e30husYbvaax5ddkr_GiPpsGg4YTI" 
+    alt="Dream Skrin Logo" 
+    style="width: 80px; height: 80px; object-fit: contain; margin-right: 15px;" 
+  />
+</div>
   </a>
 </div>
 
